@@ -15,15 +15,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+# 💫 About Me:
 <h1 align="center">Hi 👋, I'm Venkata Krishna I</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate backend developer and data engineer</h3>
+📝 I regularly write article<br>
+⚡ Fun fact
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ivkrishna-mf&label=Profile%20views&color=0e75b6&style=flat" alt="ivkrishna-mf" /> </p>
 
-- 🔭 I’m currently working on **data-analytics**
+- 🔭 I’m currently working on **data-analytics project**
 
-- 🌱 I’m currently learning **webflux, AI**
+- 🌱 I’m currently learning **Webflux, AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,5 +40,7 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivkrishna-mf&show_icons=true&locale=en" alt="ivkrishna-mf" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivkrishna-mf&" alt="ivkrishna-mf" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ivkrishna-mf&label=Profile%20views&color=0e75b6&style=flat" alt="ivkrishna-mf" /> </p>
 
 
