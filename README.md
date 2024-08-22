@@ -106,7 +106,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/idev_universe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="idev_universe" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/venkata-krishna-i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venkata-krishna-i-" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/venkata-krishna-i/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venkata-krishna-i-" height="30" width="40" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivkrishna-mf&label=Profile%20views&color=0e75b6&style=flat" alt="ivkrishna-mf" /> </p>
