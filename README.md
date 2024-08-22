@@ -23,17 +23,72 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Webflux, AI**
 - 📝 I regularly write article<br>
 
-## 🌐 Digital Badges/ Credentials/ Certifications:
+### 🌐 Digital Badges/ Credentials/ Certifications:
 
-### Credly     -> https://www.credly.com/users/itham-venkata-krishna
-### Accredible -> https://www.credential.net/profile/ivkrishna
-### Databricks -> https://credentials.databricks.com/profile/ivkrishna
-### Snowflake  -> https://achieve.snowflake.com/profile/ivkrishna
-### Google cloud -> https://www.cloudskillsboost.google/public_profiles/34cbf5f7-7bc9-402c-b3df-2724b98378a2
-### Azure ->
-### AWS ->
-### Oracle ->
+##### Credly     -> https://www.credly.com/users/itham-venkata-krishna
+##### Accredible -> https://www.credential.net/profile/ivkrishna
+##### Databricks -> https://credentials.databricks.com/profile/ivkrishna
+##### Snowflake  -> https://achieve.snowflake.com/profile/ivkrishna
+##### Google cloud -> https://www.cloudskillsboost.google/public_profiles/34cbf5f7-7bc9-402c-b3df-2724b98378a2
+##### Azure ->
+##### AWS ->
+##### Oracle ->
 
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">  
+ Javascript
+ <br>Angular
+  <br> Node.js
+  <br> Typescript
+</div>
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+      Java 11+
+  <br> spark
+  <br> scala 
+  <br>spring boot
+  <br>struts
+  <br> postgreSQL
+  <br> hibernate 
+  <br> Kafka
+  <br> Bigdata(Hive, Hadoop, Oozie)
+  <br> Microservices
+  <br> Docker
+  <br> Kubernetes
+  <br> ELK stack
+  <br> AWS S3
+  <br> Azure Event Hubs
+  <br> Databricks
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### DevOps  
+<div align="center">  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
+<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+
+<br/>  
 
 
 # 💻 Tech Stack:
