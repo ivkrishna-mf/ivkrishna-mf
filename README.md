@@ -96,10 +96,10 @@ Here are some ideas to get you started:
 | SNO  | Course   | Status  | Certificate |
 |---|---|---|---|
 | 1  | MongoDB Java Developer Path   | Completed  | https://drive.google.com/file/d/1AoW5T5ozaot56cuHFTc1KJx34DZ5P1iP/view?usp=sharing  |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| 2  | Ultimate AWS Certified Developer Associate 2024 NEW DVA-C02  |   |   |
+| 3  |  Complete AWS Certified Data Engineer Associate - DEA-C01  |   |   |
+| 4  | Snowflake Certification: SnowPro Core COF-C02 Exam Prep  |   |   |
+| 5  | DP-203 : Microsoft Certified Azure Data Engineer Associate |   |   |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
