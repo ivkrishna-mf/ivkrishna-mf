@@ -25,6 +25,10 @@ Here are some ideas to get you started:
 
 ### 🌐 Digital Badges/ Credentials/ Certifications:
 
+<!---
+your comment goes here
+and here
+
 ##### Credly     -> https://www.credly.com/users/itham-venkata-krishna
 ##### Accredible -> https://www.credential.net/profile/ivkrishna
 ##### Databricks -> https://credentials.databricks.com/profile/ivkrishna
@@ -34,7 +38,68 @@ Here are some ideas to get you started:
 ##### Aamazon - AWS ->
 ##### Oracle ->
 
-
+-->
+<table class="tg"><thead>
+  <tr>
+    <td class="tg-0pky"> S.NO</td>
+    <td class="tg-0pky"> Certification </td>
+    <td class="tg-0pky" rowspan="12">
+    Credly -> https://www.credly.com/users/itham-venkata-krishna </br>
+Accredible -> https://www.credential.net/profile/ivkrishna </br>
+Databricks -> https://credentials.databricks.com/profile/ivkrishna  </br>
+Snowflake -> https://achieve.snowflake.com/profile/ivkrishna  </br>
+Google - Google Cloud -> https://www.cloudskillsboost.google/public_profiles/34cbf5f7-7bc9-402c-b3df-2724b98378a2  </br>
+Microsoft - Azure -> https://learn.microsoft.com/en-us/users/krishna-3012/transcript/d5ej9ug6p8nw0ze  </br>
+Aamazon - AWS ->    </br>
+Oracle ->   
+    
+  </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"> 1 </td>
+    <td class="tg-0pky"> <a href="https://www.credly.com/badges/84d3aa56-69a0-4046-b05d-52359f383b81" > Oracle Certified Java Programmer(1.6) </a> </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">2 </td>
+    <td class="tg-0pky">  <a href="https://www.credly.com/badges/528f005d-53ab-4c18-9e64-3a4e467bda41" > Microsoft’s Programming in HTML5 with JavaScript and CSS3 </a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">3</td>
+    <td class="tg-0pky"> <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=691584CF1A4866840E6792721C1F569C25C524B7F0C6A515780330E5E664B7B4" >Oracle Cloud Infrastructure Foundations 2023 Associate </a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">4</td>
+    <td class="tg-0pky"> <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=0FE0789763BF1C538FDB8E80E1FEB29F46DA0EFA950068FBA0BF30432A8EFC12" >Oracle Cloud Infrastructure 2024 Generative AI Certified Professional </a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">5</td>
+    <td class="tg-0pky"> <a href="https://www.credly.com/badges/8b6a1f70-e94a-4bad-9bbf-3b36ee26b0e9" >Google Cloud Computing Foundations Certificate </a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">6</td>
+    <td class="tg-0pky"> <a href="https://learn.microsoft.com/en-us/users/krishna-3012/credentials/db77854897badf8d" >Microsoft Certified: Azure Fundamentals </a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">7</td>
+    <td class="tg-0pky"><a href="https://www.credly.com/badges/8387a29b-c255-4e4a-af0d-49d991430167" >Astronomer Certification for Apache Airflow Fundamentals </a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr></thead>
+</table>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
