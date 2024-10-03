@@ -35,7 +35,7 @@ and here
 ##### Snowflake  -> https://achieve.snowflake.com/profile/ivkrishna
 ##### Google - Google Cloud -> https://www.cloudskillsboost.google/public_profiles/34cbf5f7-7bc9-402c-b3df-2724b98378a2 </br>
 https://g.dev/venkatakrishna_i
-##### Microsoft - Azure -> [https://learn.microsoft.com/en-us/users/krishna-3012/transcript/d5ej9ug6p8nw0ze](https://learn.microsoft.com/en-us/users/krishna-3012/credentials/db77854897badf8d)
+##### Microsoft - Azure -> [[https://learn.microsoft.com/en-us/users/krishna-3012/transcript/d5ej9ug6p8nw0ze](https://learn.microsoft.com/en-us/users/krishna-3012/credentials/db77854897badf8d)](https://learn.microsoft.com/en-us/users/krishna-3012/credentials/db77854897badf8d)
 ##### Aamazon - AWS ->
 ##### Oracle ->
 
@@ -52,7 +52,7 @@ Snowflake -> https://achieve.snowflake.com/profile/ivkrishna  </br> </br>
 Google - Google Cloud -> https://www.cloudskillsboost.google/public_profiles/34cbf5f7-7bc9-402c-b3df-2724b98378a2  </br></br>
  
 https://g.dev/venkatakrishna_i   </br></br>
-Microsoft - Azure -> https://learn.microsoft.com/en-us/users/krishna-3012/transcript/d5ej9ug6p8nw0ze  </br> </br>
+Microsoft - Azure -> [https://learn.microsoft.com/en-us/users/krishna-3012/transcript/d5ej9ug6p8nw0ze](https://learn.microsoft.com/en-us/users/krishna-3012/credentials/db77854897badf8d)  </br> </br>
 Aamazon - AWS ->    </br> </br>
 Oracle ->   </br>
     
