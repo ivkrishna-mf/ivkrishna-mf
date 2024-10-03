@@ -33,7 +33,8 @@ and here
 ##### Accredible -> https://www.credential.net/profile/ivkrishna
 ##### Databricks -> https://credentials.databricks.com/profile/ivkrishna
 ##### Snowflake  -> https://achieve.snowflake.com/profile/ivkrishna
-##### Google - Google Cloud -> https://www.cloudskillsboost.google/public_profiles/34cbf5f7-7bc9-402c-b3df-2724b98378a2
+##### Google - Google Cloud -> https://www.cloudskillsboost.google/public_profiles/34cbf5f7-7bc9-402c-b3df-2724b98378a2 </br>
+https://g.dev/venkatakrishna_i
 ##### Microsoft - Azure -> [https://learn.microsoft.com/en-us/users/krishna-3012/transcript/d5ej9ug6p8nw0ze](https://learn.microsoft.com/en-us/users/krishna-3012/credentials/db77854897badf8d)
 ##### Aamazon - AWS ->
 ##### Oracle ->
@@ -44,14 +45,16 @@ and here
     <td class="tg-0pky"> S.NO</td>
     <td class="tg-0pky"> Certification </td>
     <td class="tg-0pky" rowspan="12">
-    Credly -> https://www.credly.com/users/itham-venkata-krishna </br>
-Accredible -> https://www.credential.net/profile/ivkrishna </br>
-Databricks -> https://credentials.databricks.com/profile/ivkrishna  </br>
-Snowflake -> https://achieve.snowflake.com/profile/ivkrishna  </br>
-Google - Google Cloud -> https://www.cloudskillsboost.google/public_profiles/34cbf5f7-7bc9-402c-b3df-2724b98378a2  </br>
-Microsoft - Azure -> https://learn.microsoft.com/en-us/users/krishna-3012/transcript/d5ej9ug6p8nw0ze  </br>
-Aamazon - AWS ->    </br>
-Oracle ->   
+    Credly -> https://www.credly.com/users/itham-venkata-krishna </br> </br>
+Accredible -> https://www.credential.net/profile/ivkrishna </br> </br>
+Databricks -> https://credentials.databricks.com/profile/ivkrishna  </br> </br>
+Snowflake -> https://achieve.snowflake.com/profile/ivkrishna  </br> </br>
+Google - Google Cloud -> https://www.cloudskillsboost.google/public_profiles/34cbf5f7-7bc9-402c-b3df-2724b98378a2  </br></br>
+ 
+https://g.dev/venkatakrishna_i   </br></br>
+Microsoft - Azure -> https://learn.microsoft.com/en-us/users/krishna-3012/transcript/d5ej9ug6p8nw0ze  </br> </br>
+Aamazon - AWS ->    </br> </br>
+Oracle ->   </br>
     
   </td>
   </tr>
