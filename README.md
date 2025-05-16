@@ -87,19 +87,19 @@ Oracle ->   </br>
     <td class="tg-0pky"><a href="https://www.credly.com/badges/8387a29b-c255-4e4a-af0d-49d991430167" >Astronomer Certification for Apache Airflow Fundamentals </a></td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">8</td>
+    <td class="tg-0pky"><a href="https://www.credly.com/badges/8387a29b-c255-4e4a-af0d-49d991430167" >AWS Certified Developer – Associate </a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">9</td>
+    <td class="tg-0pky"><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=0DC312204A9989ECA58FE7B52EA6085A5C3C128975A0D687F9B80B1F15B1AE55#" >Oracle AI Vector Search Certified Professional </a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">10</td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">11</td>
     <td class="tg-0pky"></td>
   </tr></thead>
 </table>
