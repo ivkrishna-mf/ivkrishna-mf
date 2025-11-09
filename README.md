@@ -96,7 +96,7 @@ Oracle ->   </br>
   </tr>
   <tr>
     <td class="tg-0pky">10</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=4F5D8DE4BFCE4B0FEF32B9CC8816E380CED46B49282F224640E219AA89648B65" >Oracle Cloud Infrastructure 2025 Certified Data Science Professional </a></td>
   </tr>
   <tr>
     <td class="tg-0pky">11</td>
