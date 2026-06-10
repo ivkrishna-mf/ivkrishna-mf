@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Venkata Krishna I</h1>
 <h3 align="center">A passionate backend developer and data engineer</h3>
 
-- 🔭 I’m currently working on **data-analytics project**
-- 🌱 I’m currently learning **Webflux, AI**
-- 📝 I regularly write article<br>
+- 🔭 I’m currently working on **data-enginering project**
+- 🌱 I’m continuously exploring ** AI/ML **
+- 📝 I regularly write article * <br>
 
 ### 🌐 Digital Badges/ Credentials/ Certifications:
 
@@ -99,9 +99,10 @@ Oracle ->   </br>
     <td class="tg-0pky"><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=4F5D8DE4BFCE4B0FEF32B9CC8816E380CED46B49282F224640E219AA89648B65" >Oracle Cloud Infrastructure 2025 Certified Data Science Professional </a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">11</td>
-    <td class="tg-0pky"></td>
-  </tr></thead>
+    <td class="tg-0pky">10</td>
+    <td class="tg-0pky"><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=4F5D8DE4BFCE4B0FEF32B9CC8816E380CED46B49282F224640E219AA89648B65" >GitHub Copilot </a></td>
+  </tr>
+  </thead>
 </table>
 
 ## My Skill Set  
@@ -125,9 +126,11 @@ Oracle ->   </br>
       Java 11+
   <br> spark
   <br> scala 
+  <br> python3 
   <br>spring boot
   <br>struts
   <br> postgreSQL
+  <br> MS SQL Server
   <br> hibernate 
   <br> Kafka
   <br> Bigdata(Hive, Hadoop, Oozie)
@@ -136,7 +139,11 @@ Oracle ->   </br>
   <br> Kubernetes
   <br> ELK stack
   <br> AWS S3
+  <br> AWS Glue, Athena
   <br> Azure Event Hubs
+  <br> Microsoft Fabric
+  <br> Airflow
+  <br> Iceberg
   <br> Databricks
 </div>
 
@@ -164,11 +171,11 @@ Oracle ->   </br>
 | SNO  | Course   | Status  | Certificate |
 |---|---|---|---|
 | 1  | MongoDB Java Developer Path   | Completed  | https://drive.google.com/file/d/1AoW5T5ozaot56cuHFTc1KJx34DZ5P1iP/view?usp=sharing  |
-| 2  | Ultimate AWS Certified Developer Associate 2024 NEW DVA-C02  |   |   |
-| 3  |  Complete AWS Certified Data Engineer Associate - DEA-C01  |   |   |
-| 4  | Snowflake Certification: SnowPro Core COF-C02 Exam Prep  |   |   |
-| 5  | DP-203 : Microsoft Certified Azure Data Engineer Associate |   |   |
-|   |   |   |   |
+| 2  | Ultimate AWS Certified Developer Associate 2024 NEW DVA-C02  | Completed   |   |
+| 3  |  Complete AWS Certified Data Engineer Associate - DEA-C01  | Completed   |   |
+| 4  | Snowflake Certification: SnowPro Core COF-C02 Exam Prep  | IN PROGRESS  |   |
+| 5  | DP-203 : Microsoft Certified Azure Data Engineer Associate | IN PROGRESS  |   |
+| 6 | AWS Certified Machine Learning Engineer Associate  | IN PROGRESS  |   |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
